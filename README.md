@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Pursuing in BE-Computer Science Engineering , III-year<br>🌱 I’m currently learning in Full Stack Development<br>💬 About Me, I'm Antony Amal Rekshin, Shortly Call Me Rekshin😊,I have a background and interest in UI/UX design, with knowledge of tools like Figma and Adobe XD, and I hold a certification in the field from CodeSoft. You are skilled in HTML, CSS, JavaScript, and familiar with frameworks like Bootstrap.<br>
+🔭 I’m currently Pursuing in BE-Computer Science Engineering , III-year<br>🌱 I’m currently learning in Full Stack Development<br>💬 About Me, I'm Antony Amal Rekshin, Shortly Call Me Rekshin😊,I have a background and interest in UI/UX design, with knowledge of tools like Figma and Adobe XD, and I hold a certification in the field from CodeSoft. I'm skilled in HTML, CSS, JavaScript, and familiar with frameworks like Bootstrap.<br>
 
 
 ## 🌐 Socials:
