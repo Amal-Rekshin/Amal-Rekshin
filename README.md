@@ -90,7 +90,7 @@ design **clean, user-friendly interfaces**.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-Rekshin&theme=tokyonight&hide_border=true&layout=compact"/>
+  <img src="https://leetcard.jacoblin.cool/Amal_Rekshin?theme=dark&font=Nunito&ext=contest"/>
 </p>
 
 ---
