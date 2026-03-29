@@ -66,11 +66,11 @@ design **clean, user-friendly interfaces**.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=Amal-Rekshin&theme=tokyonight&hide_border=true&show_icons=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amal-Rekshin&theme=tokyonight&hide_border=true"/>
 
-</div>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-Rekshin&theme=tokyonight&hide_border=true&layout=compact"/>
