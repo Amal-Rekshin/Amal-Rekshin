@@ -1,104 +1,95 @@
-<h1 align="center">Hi 👋, I'm Antony Amal Rekshin</h1>
+<h1 align="center">Antony Amal Rekshin</h1>
+<h3 align="center">Java Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+JS;Building+Scalable+Web+Applications;UI%2FUX+Enthusiast" />
+Building scalable backend systems with Spring Boot and crafting modern UI using React.
 </p>
 
-<h3 align="center">🚀 Java Full Stack Developer | Spring Boot | React JS</h3>
-
----
-
-## 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://instagram.com/_rekx_in">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/antony-amal-rekshin-a-751537281">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"/>
   </a>
-  <a href="YOUR_RESUME_LINK_HERE">
-    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  <a href="https://instagram.com/_rekx_in">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/Resume-View-green?style=flat&logo=google-drive"/>
   </a>
 </p>
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-🎓 B.E. Computer Science Engineering (III Year)  
-💡 Passionate about **Full Stack Development**  
-🔥 Specialized in **Java Backend + React Frontend**  
-
-💬 I'm Rekshin 😊 — I build **scalable backend systems** and  
-design **clean, user-friendly interfaces**.
-
-- 🔭 Working on: **Spring Boot + React Projects**
-- 🌱 Learning: **Advanced Backend & System Design**
-- 🎯 Goal: Become a **Top Full Stack Developer**
-- 🎨 UI/UX Designer (Figma & Adobe XD)
+- 🎓 B.E. Computer Science Engineering (III Year)
+- 💡 Focused on **Java Full Stack Development**
+- ⚡ Strong in **Spring Boot, JDBC, MySQL**
+- 🎨 Skilled in **React + Tailwind CSS UI Development**
+- 🎯 Goal: Software Developer in a product-based company
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
+**Backend:**  
+Java • Spring Boot • JDBC  
 
-<img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/JDBC-%23007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white"/>
+**Frontend:**  
+React JS • Tailwind CSS • JavaScript • HTML • CSS  
 
-<img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+**Database:**  
+MySQL  
 
-<img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
-<img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
-</p>
+**Tools:**  
+Git • GitHub • Figma • Netlify  
 
 ---
 
-## 📊 GitHub Stats
-## 📊 GitHub Stats
+## 🚀 Projects
+
+### 🔹 DevProfileHub – Resume Builder
+- Built using **React JS**
+- Dynamic multi-page PDF generation
+- Clean and responsive UI
+
+---
+
+### 🔹 Full Stack Web Application
+- Backend: **Spring Boot REST APIs**
+- Frontend: **React + Tailwind**
+- Database: **MySQL**
+
+---
+
+### 🔹 UI/UX Design Projects
+- Designed using **Figma & Adobe XD**
+- Focus on usability and modern design
+
+---
+
+## 📈 GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amal-Rekshin&show_icons=true" />
 </p>
 
+---
+
+## 🧠 Coding Profile
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-Rekshin&layout=compact" />
+  <a href="https://leetcode.com/u/Amal_Rekshin/">
+    <img src="https://img.shields.io/badge/LeetCode-Amal_Rekshin-orange?style=flat&logo=leetcode"/>
+  </a>
 </p>
 
 ---
 
-## 🧠 LeetCode / DSA
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Amal_Rekshin?theme=dark&font=Nunito&ext=contest"/>
-</p>
-
----
-
-## 🔥 What Makes Me Stand Out
-
-✔ Strong **Java Backend Development**  
-✔ Clean **Frontend UI with React & Tailwind**  
-✔ UI/UX Design Knowledge  
-✔ Focus on **Real-World Projects**  
-
----
-
-## 🚀 Current Focus
-
-- Full Stack Development (Spring Boot + React)
-- Data Structures & Algorithms
-- Backend Optimization & Scalability
+- Building real-world full stack projects  
+- Improving DSA and problem solving  
+- Learning system design fundamentals  
 
 ---
 
