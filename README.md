@@ -77,11 +77,10 @@ Git • GitHub • Figma • Netlify
 ---
 
 ## 🧠 Coding Profile
-
-<p align="center">
   <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Amal_Rekshin?theme=dark&font=Nunito&ext=contest"/>
-</p>
+    <img src="https://leetcard.jacoblin.cool/Amal_Rekshin?theme=dark&font=Nunito&ext=contest"/>
+  </p>
+<p align="center">
   <a href="https://leetcode.com/u/Amal_Rekshin/">
     <img src="https://img.shields.io/badge/LeetCode-Amal_Rekshin-orange?style=flat&logo=leetcode"/>
   </a>
