@@ -46,7 +46,6 @@ Git • GitHub • Figma • Netlify
 ---
 
 ## 🚀 Projects
-## 🚀 Projects
 
 ### 🔹 Student Management System
 - Built a full-stack application using **Spring Boot, JPA Repository, React JS, and MySQL**
