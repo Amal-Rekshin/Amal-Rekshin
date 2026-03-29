@@ -95,7 +95,6 @@ Git • GitHub • Figma • Netlify
 - Learning system design fundamentals  
 
 ---
-
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Amal-Rekshin&icon=5&color=6"/>
+  <img src="https://komarev.com/ghpvc/?username=Amal-Rekshin&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
