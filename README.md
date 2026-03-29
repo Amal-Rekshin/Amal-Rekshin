@@ -98,7 +98,7 @@ design **clean, user-friendly interfaces**.
 ## 🧠 LeetCode / DSA
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest"/>
+  <img src="https://leetcode.com/u/Amal_Rekshin/?theme=dark&font=Nunito&ext=contest"/>
 </p>
 
 ---
