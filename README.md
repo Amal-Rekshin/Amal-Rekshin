@@ -64,29 +64,11 @@ design **clean, user-friendly interfaces**.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 DevProfileHub (Resume Builder)
-- Built using **React JS**
-- Dynamic multi-page PDF generation
-- Clean UI with responsive design
-
-### 🔹 Full Stack Web Application
-- Backend: **Spring Boot + REST APIs**
-- Frontend: **React + Tailwind CSS**
-- Database: **MySQL**
-
-### 🔹 UI/UX Design Projects
-- Designed using **Figma & Adobe XD**
-- Focus on **user-friendly interfaces**
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amal-Rekshin&theme=tokyonight&hide_border=true&show_icons=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amal-Rekshin&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
