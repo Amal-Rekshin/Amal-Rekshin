@@ -46,24 +46,29 @@ Git • GitHub • Figma • Netlify
 ---
 
 ## 🚀 Projects
+## 🚀 Projects
 
-### 🔹 DevProfileHub – Resume Builder
+### 🔹 Student Management System
+- Built a full-stack application using **Spring Boot, JPA Repository, React JS, and MySQL**
+- Implemented **CRUD operations** with REST APIs
+- Designed a responsive UI for managing student records
+- Integrated backend with frontend for seamless data flow
+
+---
+
+### 🔹 ATM Simulation System
+- Developed using **Core Java and JDBC**
+- Simulated real-world ATM functionalities like **withdraw, deposit, balance check**
+- Implemented database connectivity with MySQL
+- Focused on backend logic and transaction handling
+
+---
+
+### 🔹 Resume Builder
 - Built using **React JS**
-- Dynamic multi-page PDF generation
-- Clean and responsive UI
-
----
-
-### 🔹 Full Stack Web Application
-- Backend: **Spring Boot REST APIs**
-- Frontend: **React + Tailwind**
-- Database: **MySQL**
-
----
-
-### 🔹 UI/UX Design Projects
-- Designed using **Figma & Adobe XD**
-- Focus on usability and modern design
+- Dynamic form-based resume creation
+- Supports structured input for skills, education, and projects
+- Clean and responsive UI design
 
 ---
 
