@@ -32,7 +32,7 @@ Building scalable backend systems with Spring Boot and crafting modern UI using 
 ## 🛠️ Tech Stack
 
 **Backend:**  
-Java • Spring Boot • JDBC  
+Java • Spring Boot • JDBC • Servlet • OPPs 
 
 **Frontend:**  
 React JS • Tailwind CSS • JavaScript • HTML • CSS  
