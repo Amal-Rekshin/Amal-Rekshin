@@ -69,9 +69,10 @@ Git • GitHub • Figma • Netlify
 
 ## 📈 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amal-Rekshin&show_icons=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Amal-Rekshin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Amal-Rekshin&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-Rekshin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
