@@ -1,4 +1,4 @@
-<h1 align="center">Antony Amal Rekshin</h1>
+<h1 align="center">Antony Amal Rekshin A</h1>
 <h3 align="center">Java Full Stack Developer</h3>
 
 <p align="center">
